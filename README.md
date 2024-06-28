@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-# C2S-HealthPortal-Frontend
-=======
-# React + Vite
+# C2S Health Portal - FrontEnd
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Mockup Screens
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> f6fbad8 (Initial)
+![Login Page](public/images/1.png "Login Page")
+![Home Page](public/images/2.png "Home Page")
+![Form Modal](public/images/3.png "Form Modal")
+![Error Display](public/images/4.png "Error Display")
